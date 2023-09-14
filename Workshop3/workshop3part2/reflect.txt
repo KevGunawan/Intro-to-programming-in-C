@@ -1,0 +1,30 @@
+///////////////////////////////////////////////////////////////////////////
+                              Reflection
+                          Workshop - #3 (P2)
+Full Name  : Kevin Gunawan
+Student ID#: 177378213
+Email      : kgunawan1@myseneca.ca
+Section    : NGG 
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+///////////////////////////////////////////////////////////////////////////
+
+1.((coffeetype1 == 'l' || coffeetype1 == 'L') && (coffeeprf == 'l' || coffeeprf == 'L')) || ((coffeetype1 == 'm' || coffeetype1 == 'M')
+ && (coffeeprf == 'm' || coffeeprf == 'M')) || ((coffeetype1 == 'r' || coffeetype1 == 'R') && (coffeeprf == 'r' || coffeeprf == 'R')), 
+(bagtype1 == 250 && servings >= 1 && servings <= 4) || (bagtype1 == 500 && servings >= 5 && servings <= 9) || (bagtype1 == 1000 && servings >= 10), 
+((cream1 == 'y' || cream1 == 'Y') && (withcream == 'y' || withcream == 'Y')) || ((cream1 == 'n' || cream1 == 'N') && (withcream == 'n' || withcream == 'N')));
+
+A)I used the relational expressions ==, >=, and <= a combined total of 28 times. 
+B)I used the logical expression || and && a combined total of 20 times.
+
+2.(productID1 != productID2 && productID1 != productID3) this was the logic I used for my output in Part1
+according to deMorgans law we can move the ! out side the brackets and flip the && operators into || operators.
+
+3. The first way I you can organize your variables is to declare all the variables all at once under one declarion
+the second way you can do it is to declare the variables in terms of how they are used. For example in part 2
+we needed 9 variables to store the coffee products and a further 3 variables to store the coffee preferences. Thus, 
+the second way would have the first 9 variables be declared together and the final three declared together. This way
+we can clearly see what the purpose of each variable is. 

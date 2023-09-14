@@ -1,0 +1,6 @@
+﻿  w6p2.c
+C:\Users\gunaw\Documents\C Workshops\Workshop6\w6p2\w6p2.c(173,40): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\gunaw\Documents\C Workshops\Workshop6\w6p2\w6p2.c(215,44): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\gunaw\Documents\C Workshops\Workshop6\w6p2\w6p2.c(245,45): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\gunaw\Documents\C Workshops\Workshop6\w6p2\w6p2.c(275,45): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  w6p2.vcxproj -> C:\Users\gunaw\Documents\C Workshops\Workshop6\w6p2\x64\Debug\w6p2.exe

@@ -1,0 +1,2 @@
+﻿w2p2.obj : error LNK2005: main already defined in w2p1.obj
+C:\Users\gunaw\Documents\C Workshops\Workshop 2\Workshop2\x64\Debug\Workshop2.exe : fatal error LNK1169: one or more multiply defined symbols found

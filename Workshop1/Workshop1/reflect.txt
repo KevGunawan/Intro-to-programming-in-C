@@ -1,0 +1,32 @@
+///////////////////////////////////////////////////////////////////////////
+
+                              Reflection
+                             Workshop - #1
+Full Name  : Kevin Gunawan		
+Student ID#: 177378213
+Email      : kgunawan1@myseneca.ca	
+Section    : NGG
+
+Authenticity Declaration:
+
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+///////////////////////////////////////////////////////////////////////////
+
+
+1. I have experience programming in R using R studio in the recent past as I was completing my masters in psychology in the 
+past. I also have experience with some python and a bit of c in the past but it was nothing formal, I was just doing some self
+study of the harvard cs50 course. I also learned some turing in the past during a highschool computer science course. My inital
+thoughts on c is that it doesn't seem all too difficult thus far but I know things will get much more complex as we progess 
+through this course. 
+
+2. My basic understanding of compiling is essentially turning programming language which is written and understood
+by humans into machine language consisting of binary. It does this by converting the various programming languages syntax and 
+symbol/characters using an ascii table which standardizes the human characters into different patterns of ones and zeros.
+
+3. My personal goals for this course is to gain a high understanding and competency with the c programming language. I 
+understand c is an important foundation of a lot of things in the relm of IT, thus I think it would be in my best interest
+to gain a proper and thorough understanding of it. My expectations of the course; I personally think that I am very much a
+beginner when it comes to programming, thus I am expecting it to be quite challenging. However, I do think that with time and
+effort, by the end of the course I will have gained a better of c and programming as a whole. 

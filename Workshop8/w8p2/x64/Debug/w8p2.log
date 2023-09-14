@@ -1,0 +1,3 @@
+﻿  w8p2.c
+C:\Users\gunaw\Documents\C Workshops\Workshop8\w8p2\w8p2.c(141,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  w8p2.vcxproj -> C:\Users\gunaw\Documents\C Workshops\Workshop8\w8p2\x64\Debug\w8p2.exe

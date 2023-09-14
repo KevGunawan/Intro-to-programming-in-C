@@ -1,0 +1,29 @@
+///////////////////////////////////////////////////////////////////////////
+                               Reflection
+                             Workshop - #4
+Full Name  : Kevin Gunawan
+Student ID#: 177378213
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+///////////////////////////////////////////////////////////////////////////
+
+1. I designed my code by first declaring the necessary variables. I grouped the variables into
+sections defined by which section they are needed in the code. Since this workshop required the use
+of Nested ifs and various loops, it was important for me to use curly brackets with tab spacing 
+so i can make sure that I know where which statments are nest under which large statements. Also helped 
+me keep track of whether my else if and elses are dangling. 
+
+2. Without nesting, it wouldn't be possible to make more complex decision making structures since you would
+only be able to make decisions independently. You wouldnt be able to make decision trees where by current decisions
+depend on decision made earlier up the tree. 
+
+3.If statements will only execute when a specific case is true. If using just if statements to solve the
+aforementioned problem it will only be true if the user were to input what each statement wants. In this case
+it might be more efficient to use a switch case. However, in comparing between just if statements vs if/else if/else,
+on top of being able to capture the options you are looking for using your if and else if statements, you can also
+capture improper inputs with an else statement in which you can create error messages for user feedback.
+Using only if statements can also make the code harder to read. 
+ 

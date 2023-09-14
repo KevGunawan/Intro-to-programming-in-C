@@ -1,0 +1,11 @@
+w8p1.c: In function ‘displayCatFoodData’:
+w8p1.c:110:2: warning: format ‘%d’ expects argument of type ‘int’, but argument 5 has type ‘double’ [-Wformat=]
+  printf("%07d %10.2lf %10.1lf %8d\n", *sku, *price, *weight, *cal);
+  ^
+w8p1.c: In function ‘start’:
+w8p1.c:129:3: warning: passing argument 4 of ‘displayCatFoodData’ from incompatible pointer type [enabled by default]
+   displayCatFoodData(&productInfo[counter].SKU, &productInfo[counter].Price, &productInfo[counter].Weight, &productInfo[counter].Cal);
+   ^
+w8p1.c:108:6: note: expected ‘double *’ but argument is of type ‘int *’
+ void displayCatFoodData(const int *sku, double *price, double *weight, double *cal)
+      ^
